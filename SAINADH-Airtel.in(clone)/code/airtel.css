@@ -1,0 +1,508 @@
+#div0{
+    box-sizing: border-box;
+}
+#div1{
+    
+    height: 30px;
+    width: 100%;
+    
+
+}
+#div1>#a1{
+    margin-left: 80px;
+    color: red;
+    border-top: red 5px solid ;
+    text-decoration: none;
+   
+}
+#div1>a{
+    font-family: TondoBold, sans-serif;
+    padding-top: 5px;
+    font-weight: 700;
+    font-size: 12px;
+   
+}
+#div1>.cl1{
+    margin-left: 30px;
+    color: #696b6f;
+    text-decoration: none;
+}
+#div1>a:hover{
+   
+    color: red;
+    border-top: red 5px solid ;
+}
+#div1>#a2{
+    float: right;
+    margin-right: 100px;
+    text-decoration: none;
+    font-family: TondoBold, sans-serif;
+    padding-top: 5px;
+    font-weight: 700;
+    font-size: 12px;
+    color: red;
+}
+#div2{
+    min-height: 30px;
+   border-bottom: 1px solid rgb(238, 234, 234);
+   padding-bottom: 20px;
+}
+#div2>#a1{
+    margin-left: 210px;
+
+}
+#div2>a{
+    margin-top: -30px;
+    text-decoration: none;
+    margin-left: 30px;
+  
+    color: #696b6f;
+   
+   
+   
+}
+#div2>#a7{
+    margin-left: 60px;
+}
+#div31{
+   
+    height: 345px;
+    width: 50%;
+    padding-left: 60px;
+    padding-top: 50px;
+    font-family:TondoBold, sans-serif ;
+   
+    
+}
+#div31>h4{
+    background-color: black;
+    color: aliceblue;
+    padding: 10px;
+   width:16%;
+   height: 30px;
+   line-height: 30px;
+}
+#div31>h4:hover{
+    background-color: rgb(44, 44, 44);
+    color: aliceblue;
+    padding: 12px;
+   width:16%;
+   height: 33px;
+   line-height: 33px;
+}
+#div4{
+    height: 300px;
+    text-align: center;
+    background-color:rgb(248, 245, 245);
+    font-family: TondoBold, sans-serif;
+    margin-top: -20px;
+    
+}
+
+#div4>h2{
+   padding-top: 30px;
+    font-weight:bolder;
+   
+
+}
+#div41>h3{
+    margin-top: 20px;
+    font-weight:100;
+    margin-left: 30px;
+    padding: 10px;
+    border-radius: 20px;
+    background-color: #c9cdd6;    
+
+}
+#div41{
+   
+    text-align: center;
+    background-color:rgb(248, 245, 245);
+    font-family: TondoBold, sans-serif;
+    display:flex;
+    justify-content: center;
+    align-items: flex-start; 
+}
+#div41>h3:hover{
+    background-color: black;
+    margin-top: 20px;
+    font-weight:100;
+    margin-left: 30px;
+    padding: 15px;
+    color: white;
+    border-radius: 20px;
+    
+
+}
+#div4>h3{
+    background-color: black;
+    height: 40px;
+    width: 30%;
+    justify-content: center;
+    margin-left: 470px;
+    border-radius: 10px;
+    color: white;
+    line-height: 40px;
+    
+}
+#div5{
+    background-color: red;
+    font-size: 10px;
+    line-height: 20px;
+    padding: 1px;
+    color: white;
+
+}
+#div6{
+    height: 300px;
+    text-align: center;
+    background-color:rgb(248, 245, 245);
+    font-family: TondoBold, sans-serif;
+    margin-top: -20px;
+    
+    
+}
+#div6>h2{
+    padding-top: 30px;
+     font-weight:bolder;
+
+    
+ 
+ }
+#div61>h3{
+    margin-top: 20px;
+    font-weight:100;
+    margin-left: 80px;
+    padding: 10px;
+    border-radius: 20px;
+    background-color: #c9cdd6;    
+
+}
+#div61{
+   
+    text-align: center;
+    background-color:rgb(248, 245, 245);
+    font-family: TondoBold, sans-serif;
+    display:flex;
+    justify-content: center;
+    align-items: flex-start; 
+}
+#div61>h3:hover{
+    background-color: black;
+    margin-top: 20px;
+    font-weight:100;
+    margin-left: 30px;
+    padding: 15px;
+    color: white;
+    border-radius: 20px;
+    
+
+}
+#div7{
+    margin-top: -100px;
+    height:70px;
+    width: 40%;
+    padding-top: 10px;
+    margin-left: 400px;
+    border: 2px solid;
+    background-color:red;
+    border-radius: 20px;
+    color: white;
+    font-size: 12px;
+}
+#div7>h4{
+margin-top: -15px;
+}
+#div71{
+    float: right;
+    margin-right: 20px;
+    border: 2px solid white;
+    margin-top: -60px;
+    border-radius: 40px;
+    height: 30px;
+
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-top: 8px;
+ 
+}
+#div71>a{
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+   
+    
+}
+#div71:hover{
+    background-color:rgb(37, 36, 36);
+    color: black;
+    
+}
+#div8{
+    padding: 60px;
+    
+    margin-top: 15px;
+    
+    height: 580px;
+}
+#div8>h1{
+    font-weight: bold;
+    text-align: center;
+    color: #696b6f;
+}
+#div81{
+    margin-top: 100px;
+   
+    height:400px;
+    width:30%;
+    border: 2px solid red;
+    border-radius: 10px;
+}
+#div81>h4{
+    margin-left: 20px;
+}
+#div81>h2{
+    margin-left: 20px;
+    font-size: 20px;
+}
+#div81>h5{
+    margin-left: 20px;
+    margin-top: -10px;
+    font-size: 12px;
+}
+#div81>a{
+    margin-left: 20px;
+    text-decoration: none;
+    color: rgb(21, 174, 235);
+}
+#div81>#a1{
+    margin-left: 20px;
+    text-decoration: none;
+    background-color: black;
+    border-radius: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white
+
+
+}
+
+
+
+
+
+#div82{
+    float: right;
+    margin-top: -400px;
+    margin-left: 30px;
+
+    height:400px;
+    width:30%;
+    border: 2px solid red;
+    border-radius: 10px;
+}
+#div82>h4{
+    margin-left: 20px;
+}
+#div82>h2{
+    margin-left: 20px;
+    font-size: 20px;
+}
+#div82>h5{
+    margin-left: 20px;
+    margin-top: -10px;
+    font-size: 12px;
+}
+#div82>a{
+    margin-left: 20px;
+    text-decoration: none;
+    
+    color:rgb(4, 178, 247);
+}
+#div82>#a1{
+    margin-left: 20px;
+    text-decoration: none;
+    background-color: black;
+    border-radius: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white
+
+
+}
+
+
+
+
+
+#div83{
+    float: right;
+    margin-top: -400px;
+    margin-left: 30px;
+    margin-right: 30px;
+
+    height:400px;
+    width:30%;
+    border: 2px solid red;
+    border-radius: 10px;
+}
+#div83>h4{
+    margin-left: 20px;
+    color: red;
+    font-size: small;
+    
+}
+#div83>h2{
+    margin-left: 20px;
+    font-size: 20px;
+}
+#div83>h5{
+    margin-left: 20px;
+    margin-top: -10px;
+    font-size: 12px;
+}
+#div83>a{
+    margin-left: 20px;
+    text-decoration: none;
+    color: rgb(8, 172, 236);
+    border-radius: 10px;
+}
+#div83>#a1{
+    margin-left: 20px;
+    text-decoration: none;
+    background-color: black;
+    border-radius: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    float: left;
+   
+}
+
+
+
+
+#div9{
+
+height: 380px;
+padding: 60px;
+background-color: #e9ebee;
+
+
+}
+#div9>a{
+    text-decoration: none;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 12px;
+    color: rgb(13, 178, 243);
+}
+
+#div91{
+    float: left;
+    
+    height: 150px;
+    width: 20%;
+    padding: 10px;
+    border-radius: 10px white ;
+    margin-top: 10px;
+    background-color: white;
+
+}
+#div91{
+    float: left;
+    background-color: white;
+    height: 150px;
+    width: 20%;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 40px;
+    margin-left: 20px;
+
+}
+#div91{
+    float: left;
+    background-color: white;
+    height: 150px;
+    width: 20%;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 40px;
+    margin-left: 20px;
+
+}
+#div91>p{
+    color: #83858a;
+   
+
+}
+#div1012{
+    height: 500px;
+}
+#div10{
+    float: left;
+    padding-left: 40px;
+    line-height: 25px;
+}
+
+#div10>a{
+    margin-left: 80px;
+    padding-left: 40px;
+    text-decoration: none;
+    color: rgb(88, 86, 86);
+
+}
+#h101{
+    text-decoration: none;
+    color: black;
+
+}
+#div11{
+    float: left;
+    
+    margin-left: 150px;
+   
+    line-height: 25px;
+
+    
+}
+#div11>a{
+    margin-left: 40px;
+    margin-top: -100px;
+    padding-left: 40px;
+    text-decoration: none;
+    color: rgb(88, 86, 86);
+
+}
+#h102{
+    text-decoration: none;
+    color: black;
+
+}
+#div123{
+    float: left;
+    margin-left: 150px;
+   
+    line-height: 25px;
+
+    
+}
+#div123>a{
+    margin-left: 40px;
+    padding-left: 40px;
+    text-decoration: none;
+    color: rgb(88, 86, 86);
+
+}
+#h103{
+    text-decoration: none;
+    color: black;
+
+}
+
+

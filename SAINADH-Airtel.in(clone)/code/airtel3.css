@@ -1,0 +1,107 @@
+#div0{
+    box-sizing: border-box;
+}
+#div1{
+    
+    height: 30px;
+    width: 100%;
+    
+
+}
+#div1>#a1{
+    margin-left: 80px;
+    color: red;
+    border-top: red 5px solid ;
+    text-decoration: none;
+   
+}
+#div1>a{
+    font-family: TondoBold, sans-serif;
+    padding-top: 5px;
+    font-weight: 700;
+    font-size: 12px;
+   
+}
+#div1>.cl1{
+    margin-left: 30px;
+    color: #696b6f;
+    text-decoration: none;
+}
+#div1>a:hover{
+   
+    color: red;
+    border-top: red 5px solid ;
+}
+#div1>#a2{
+    float: right;
+    margin-right: 100px;
+    text-decoration: none;
+    font-family: TondoBold, sans-serif;
+    padding-top: 5px;
+    font-weight: 700;
+    font-size: 12px;
+    color: red;
+}
+#div2{
+    min-height: 30px;
+   border-bottom: 1px solid rgb(238, 234, 234);
+   padding-bottom: 20px;
+}
+#div2>#a1{
+    margin-left: 210px;
+
+}
+#div2>a{
+    margin-top: -30px;
+    text-decoration: none;
+    margin-left: 30px;
+  
+    color: #696b6f;
+   
+   
+   
+}
+#div2>#a7{
+    margin-left: 60px;
+}
+
+
+#divrech>h3{
+    color: rgb(15, 15, 15);
+    padding-left: 50px;
+    padding-top : 40px;
+    padding-right: 40px;
+    font-size: 30px;
+}
+#divrech>p{
+    padding-left: 50px;
+    padding-top : 0px;
+    padding-right: 40px;
+    font-size: 30px;
+    color: black;
+
+}
+
+#divrech1>p{
+    margin-top: 100px;
+    color: rgb(51, 51, 51);
+    padding-left: 30px ;
+    margin-left: 220px;
+    font-size: 30px;
+    
+}
+#divrech1>h3{
+    margin-top: 100px;
+    color: rgb(51, 51, 51);
+    padding-left: 30px ;
+    margin-left: 220px;
+    font-size: 30px;
+    
+}
+#divrech1>h4{
+    margin-top: 50PX;
+    margin-left: 400PX;
+
+}
+
+
